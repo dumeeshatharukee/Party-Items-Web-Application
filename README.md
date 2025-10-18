@@ -27,11 +27,19 @@ The system is designed to ensure easy navigation, efficient product exploration,
 
 ### 💼 My Contribution
 
-I, **Dumeesha Tharukee**, was responsible for:
+I, Dumeesha Tharukee, actively contributed to the project by focusing on UI/UX design and frontend development. My responsibilities included:
 
-- Designing the **main UI screens** in Figma
-- Structuring the **navigation flow**
-- Creating consistent **color palettes and components**
+🎨 Designing Main UI Screens: Created visually appealing and user-friendly screens in Figma, including the homepage, product listings, product details, cart, and checkout pages.
+
+🔄 Structuring Navigation Flow: Planned and implemented intuitive navigation across all pages to ensure a smooth user experience.
+
+🎨 Creating Consistent Components: Developed reusable UI components, maintained consistent color palettes, typography, and styling throughout the application.
+
+💻 Frontend Implementation: Built the React.js frontend interface, focusing on dynamic interactions and responsive layouts.
+
+📝 User Authentication Interfaces: Developed login and registration screens, including form validation and interactive elements to enhance usability.
+
+📱 Responsive Design: Ensured all screens were fully responsive and compatible with both desktop and mobile devices.
 
 ## 🔍 Key Features
 
