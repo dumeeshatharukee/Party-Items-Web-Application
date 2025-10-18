@@ -19,16 +19,11 @@ Welcome to the **Party Item Shopping UI/UX Design** project! This Figma design s
 
 ## ✨ Project Overview
 
-This is a **collaborative group project** aimed at designing a complete e-commerce user interface for party-related items. 
-The application includes screens for browsing items, viewing categories, logging in, signing up, adding to cart, and checking out.. The design includes:
+This is a collaborative group project focused on designing a complete e-commerce user interface for purchasing party-related items. The goal of this project is to create a visually appealing, user-friendly, and responsive web application that provides a smooth online shopping experience for customers planning events or celebrations.
 
-- A stylish homepage with hero banners and featured items
-- User login and sign-up screens
-- Various product categories for easy browsing
-- Item listing with filters
-- Detailed product view pages
-- Shopping cart UI
-- Simple checkout process
+The system is designed to ensure easy navigation, efficient product exploration, and a streamlined purchasing process — from browsing to checkout.
+
+
 
 ### 💼 My Contribution
 
